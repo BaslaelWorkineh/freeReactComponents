@@ -1,17 +1,20 @@
 .sidebarWrapper{
-    background:transparent;
-    height: 100vh;
+    background: rgba(17, 37, 29, 0.701);
+    height: 100%;
 }
 .sidebar{
-    background: rgba(0, 0, 0, 0);
+    color: rgb(213, 213, 213);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
 }
+
 .sidebar:hover{
-    color: rgb(38, 38, 38);
+    color: rgb(202, 202, 202);
 }
 
 .body
 {
     overflow: hidden;
     height:100vh;
-    background:linear-gradient(to right,rgb(84, 0, 193),rgb(30, 0, 69))
+    background: rgb(10, 20, 44);
 }
