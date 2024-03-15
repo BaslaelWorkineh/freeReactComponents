@@ -16,7 +16,6 @@ function Home() {
     'Notification',
     'Progress bar',
     'Slider',
-    'Tag',
     'Tabs',
     'Toggle switch'
   ];
